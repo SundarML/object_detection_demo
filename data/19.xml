@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>19.jpeg</filename>
+	<path>D:\data\imgs\obj_det\data\19.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>278</ymin>
+			<xmax>539</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
