@@ -1,0 +1,15 @@
+item{
+	id: 1
+	name: 'scissor'
+
+}
+item{
+	id: 2
+	name: 'cuttingplier'
+
+}
+item{
+	id: 3
+	name: 'remote'
+
+}
